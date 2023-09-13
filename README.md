@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zisou69
+- 👋 Hi, I’m @Zisou
 - 👀 I’m interested in Softwar engineering 
 - 🌱 I’m currently learning Web developement
 - 💞️ I’m looking to collaborate on A project 
